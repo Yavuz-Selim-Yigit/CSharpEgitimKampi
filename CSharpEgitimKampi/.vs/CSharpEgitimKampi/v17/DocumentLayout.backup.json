@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharp\\CSharpEgitimKampi\\",
+  "WorkspaceRootPath": "C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharpEgitimKampi\\CSharpEgitimKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{756483D5-718B-41B7-8D01-6D17A06191F6}|02_Veriables\\02_Veriables.csproj|c:\\users\\yavuz\\desktop\\g\u0130t\\csharp\\csharpegitimkampi\\02_veriables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{756483D5-718B-41B7-8D01-6D17A06191F6}|02_Veriables\\02_Veriables.csproj|solutionrelative:02_veriables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharpEgitimKampi\\CSharpEgitimKampi\\02_Veriables\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02_Veriables\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharp\\CSharpEgitimKampi\\02_Veriables\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharpEgitimKampi\\CSharpEgitimKampi\\02_Veriables\\Program.cs",
               "RelativeDocumentMoniker": "02_Veriables\\Program.cs",
-              "ToolTip": "C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharp\\CSharpEgitimKampi\\02_Veriables\\Program.cs",
+              "ToolTip": "C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharpEgitimKampi\\CSharpEgitimKampi\\02_Veriables\\Program.cs",
               "RelativeToolTip": "02_Veriables\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswKEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T11:21:44.781Z",
               "EditorCaption": ""
