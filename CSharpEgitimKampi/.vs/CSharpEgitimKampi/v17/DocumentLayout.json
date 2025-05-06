@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharpEgitimKampi\\CSharpEgitimKampi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF8F2B6-9151-4A2D-8ECE-C2B4A7E0C312}|03_MakingDecision\\03_MakingDecision.csproj|c:\\users\\yavuz\\desktop\\g\u0130t\\csharpegitimkampi\\csharpegitimkampi\\03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF8F2B6-9151-4A2D-8ECE-C2B4A7E0C312}|03_MakingDecision\\03_MakingDecision.csproj|solutionrelative:03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756483D5-718B-41B7-8D01-6D17A06191F6}|02_Veriables\\02_Veriables.csproj|c:\\users\\yavuz\\desktop\\g\u0130t\\csharpegitimkampi\\csharpegitimkampi\\02_veriables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756483D5-718B-41B7-8D01-6D17A06191F6}|02_Veriables\\02_Veriables.csproj|solutionrelative:02_veriables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharpEgitimKampi\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
+              "ToolTip": "C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharpEgitimKampi\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeToolTip": "03_MakingDecision\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwLkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:58:48.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharpEgitimKampi\\CSharpEgitimKampi\\02_Veriables\\Program.cs",
+              "RelativeDocumentMoniker": "02_Veriables\\Program.cs",
+              "ToolTip": "C:\\Users\\yavuz\\Desktop\\G\u0130T\\CSharpEgitimKampi\\CSharpEgitimKampi\\02_Veriables\\Program.cs",
+              "RelativeToolTip": "02_Veriables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:54:14.989Z",
+              "EditorCaption": ""
             }
           ]
         }
