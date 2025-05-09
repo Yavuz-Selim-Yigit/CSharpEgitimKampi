@@ -186,7 +186,7 @@ namespace _03_MakingDecision
             #endregion
 
             #region Örnek Proje Uygulaması
-            
+
             /*
 
             Console.WriteLine("C# Eğitim Kampı Restorant\n");
@@ -228,12 +228,97 @@ namespace _03_MakingDecision
             }
             */
 
-            Console.Read();
+
             #endregion
 
             #region Switch Case
 
+            /*
+            Console.Write("Lütfen Ay Girişi Yapınız: ");
+
+            int mounthNumber=int.Parse(Console.ReadLine());
+
+            switch (mounthNumber)
+            {   
+                case 1:
+                    Console.Write("Ocak");
+                    break;
+                case 2:
+                    Console.Write("Şubat");
+                    break;
+                case 3:
+                    Console.Write("Mart");
+                    break;
+                case 4:
+                    Console.Write("Nisan");
+                    break;
+                case 5:
+                    Console.Write("Mayıs");
+                    break;
+                case 6:
+                    Console.Write("Haziran");
+                    break;
+                case 7:
+                    Console.Write("Temmuz");
+                    break;
+                case 8:
+                    Console.Write("Ağustos");
+                    break;
+                case 9:
+                    Console.Write("Eylül");
+                    break;
+                case 10:
+                    Console.Write("Ekim");
+                    break;
+                case 11:
+                    Console.Write("Kasım");
+                    break;
+                case 12:
+                    Console.Write("Aralık");
+                    break;
+                default:
+                    Console.WriteLine("Hatalı Veri Girişi");
+                    break;
+            }
+
+            */
+
             #endregion
+
+            #region Örnek Hesap Makinesi
+            int result;
+            Console.WriteLine("Sayı giriniz:");
+            int sayi1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("işlem seçiniz: ");
+            char isaret = char.Parse(Console.ReadLine());
+            Console.WriteLine("Sayı giriniz: ");
+            int sayi2 = int.Parse(Console.ReadLine());
+
+            switch (isaret)
+            {
+                case '+':
+                    result = sayi1 + sayi2;
+                    Console.WriteLine($"Toplam: {result}"); 
+                    break;
+                case '-':
+                    result = sayi1 - sayi2;
+                    Console.WriteLine($"Fark: {result}"); 
+                    break;
+                case '*':
+                    result = sayi1 * sayi2;
+                    Console.WriteLine($"Çarpım: {result}");
+                    break;
+                case '/':
+                    result = sayi1 / sayi2;
+                    Console.WriteLine($"Bölüm: {result}");
+                    break;
+                default:
+                    break;
+            }
+            
+            #endregion
+
+            Console.Read();
         }
     }
 }
